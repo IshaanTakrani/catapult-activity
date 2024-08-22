@@ -1,3 +1,3 @@
 # catapult-activity
 
-Ishaan was here v2
+Repository for static websited for the STEM activities at Zebra Robotics
